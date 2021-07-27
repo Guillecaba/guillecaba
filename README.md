@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **open source projects about React.js, Django**
+- 👯 I'm interested in what people build in **React, React Native, Django, Web3, Defi, DAO**
 
 - 💬 Ask me about **React, React Native**
 
