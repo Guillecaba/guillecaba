@@ -7,7 +7,6 @@
 
 - 👯 I'm interested in what people build in **React, React Native, Django, Web3, Defi, DAO**
 
-- 💬 Ask me about **React, React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
