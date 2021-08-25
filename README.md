@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Solidity**
 
-- 👯 I'm interested in what people build and solutions in **React, React Native, Django, Web3, Defi, DAO**
+- 👯 I'm interested in what people build and solutions in **React, React Native, Django, Web3**
 
 
 <h3 align="left">Connect with me:</h3>
