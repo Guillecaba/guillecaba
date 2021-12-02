@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Povertystoplight as a Frontend & Mobile Developer**
 
-- 🌱 I’m currently learning **Next.js, Solidity**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I'm interested in what people build and solutions in **React, React Native, Django, Web3**
 
