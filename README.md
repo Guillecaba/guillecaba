@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I'm interested in what people build and solutions in **React, React Native, Django, Web3**
+- 👯 I'm interested in what people build with **React, React Native, Django, Web3**
 
 
 <h3 align="left">Connect with me:</h3>
