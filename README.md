@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">I'm a software engineer building things in Js </h3>
+<h3 align="center">I'm a software engineer building things with JS </h3>
 
 - 🔭 I’m currently working on **Poverty Stoplight as a Frontend & Mobile Developer**
 
