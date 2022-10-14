@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">I'm a software engineer building things with JS </h3>
 
-- 🔭 I’m currently working on **Poverty Stoplight as a Frontend & Mobile Developer**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👯 I'm interested in what people build with **React, React Native, Django, NodeJs**
 
 
 <h3 align="left">Connect with me:</h3>
