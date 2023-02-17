@@ -8,7 +8,7 @@
 ## What i'm up to
 
 - I’m currently working @ [Willdom](https://willdom.com/).
-- I’m currently working with [React](https://reactjs.org), [React Native](https://reactnative.dev/),[Expo](https://expo.dev/) and [NestJs](https://nestjs.com/).
+- Building with [React](https://reactjs.org), [React Native](https://reactnative.dev/),[Expo](https://expo.dev/) and [NestJs](https://nestjs.com/).
 - Currently working at a startup for job search + shift managment of nurses
 - Fan of rock, biking and barbecued
 
