@@ -7,9 +7,7 @@
 
 ## What I'm Up To
 
-- Currently working at [Willdom](https://willdom.com/) as a software engineer
 - Building web and mobile applications using [React](https://reactjs.org), [React Native](https://reactnative.dev/), [Expo](https://expo.dev/), and [NestJS](https://nestjs.com/)
-- Working at a startup that provides job search and shift management services for nurses
 - Enjoy listening to rock music, biking, and barbecuing
 
 
